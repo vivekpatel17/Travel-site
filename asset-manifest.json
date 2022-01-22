@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Travel-site/static/css/main.6c79b523.chunk.css",
+    "main.js": "/Travel-site/static/js/main.93a04e5a.chunk.js",
+    "main.js.map": "/Travel-site/static/js/main.93a04e5a.chunk.js.map",
+    "runtime-main.js": "/Travel-site/static/js/runtime-main.eaf0ae0e.js",
+    "runtime-main.js.map": "/Travel-site/static/js/runtime-main.eaf0ae0e.js.map",
+    "static/js/2.28ecd152.chunk.js": "/Travel-site/static/js/2.28ecd152.chunk.js",
+    "static/js/2.28ecd152.chunk.js.map": "/Travel-site/static/js/2.28ecd152.chunk.js.map",
+    "index.html": "/Travel-site/index.html",
+    "static/css/main.6c79b523.chunk.css.map": "/Travel-site/static/css/main.6c79b523.chunk.css.map",
+    "static/js/2.28ecd152.chunk.js.LICENSE.txt": "/Travel-site/static/js/2.28ecd152.chunk.js.LICENSE.txt",
+    "static/media/mice.ff1ba115.svg": "/Travel-site/static/media/mice.ff1ba115.svg",
+    "static/media/plane.f1183bc0.svg": "/Travel-site/static/media/plane.f1183bc0.svg",
+    "static/media/satelite.0d0ab09d.svg": "/Travel-site/static/media/satelite.0d0ab09d.svg",
+    "static/media/setting.39a88e45.svg": "/Travel-site/static/media/setting.39a88e45.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaf0ae0e.js",
+    "static/js/2.28ecd152.chunk.js",
+    "static/css/main.6c79b523.chunk.css",
+    "static/js/main.93a04e5a.chunk.js"
+  ]
+}
