@@ -1,0 +1,7 @@
+
+.footer{
+    margin: 10vh 5% 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}

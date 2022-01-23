@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.maincard{
+    padding: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.02), 0px 64.8148px 46.8519px rgba(0, 0, 0, 0.0151852), 0px 38.5185px 25.4815px rgba(0, 0, 0, 0.0121481), 0px 20px 13px rgba(0, 0, 0, 0.01), 0px 8.14815px 6.51852px rgba(0, 0, 0, 0.00785185), 0px 1.85185px 3.14815px rgba(0, 0, 0, 0.00481481);
+    border-radius: 26px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #84829A;
+    font-size: 16px;
+    position: relative;
+}
+
+.maincard > div:first-child > img{
+    border-radius: 24px;
+}
+
+.design{
+    position: absolute;
+    z-index: -10;
+    left: 150px;
+    bottom: 150px;
+    width: 354px;
+    height: 367px;
+    background: #59B1E6;
+    opacity: 0.8;
+    filter: blur(150px);
+}
+
+.detailSec > h5:first-child{
+    color: #080809;
+    font-size: 18px;
+    margin-bottom: -5px;
+}
+
+.iconSec > img{
+    margin: 0 7px;
+}
+
+.peopleSec{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.peopleSec > div > h5{
+    display: inline-flex;
+    flex-direction: row;
+    margin-left: 9px;
+}

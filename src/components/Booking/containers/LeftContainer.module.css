@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Volkhov:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.leftSection{
+    margin-bottom: 40px;
+}
+
+.subheading{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #5E6282;
+    text-align: left;
+}
+
+.heading{
+    font-family: 'Volkhov', serif;
+    color: #14183E;
+    text-align: left;
+    /* max-width: 511px; */
+}
+
+.steps > div{
+    margin: 2% 0;
+    max-width: 395px;
+    display: flex;
+    flex-direction: row;
+}
+.steps > div > img{
+    margin-top: 7px;
+    height: 40px;
+}
+.steps > div > div > h5{
+    margin: 5px 20px;
+    font-family: 'Poppins', sans-serif;
+    color: #5E6282;
+}
+
+.stepTitle{
+    font-weight: 700;
+}
+.stepDes{
+    font-weight: 400;
+}

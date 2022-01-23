@@ -1,0 +1,7 @@
+
+.booking{
+    margin: 7vh 5% 1vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}

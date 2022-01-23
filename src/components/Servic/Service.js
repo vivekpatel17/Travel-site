@@ -32,10 +32,10 @@ function Service() {
     ]
 
     return(
-        <div>
-            <div className={classes.headingSection}>
-                <p className={classes.top}>CATEGORY</p>
-                <h1>We Offer Best Services</h1>
+        <div className={classes.service}>
+            <div className={classes.headerSection}>
+                <h5 className={classes.subheading}>CATEGORY</h5>
+                <h1 className={classes.heading}>We Offer Best Services</h1>
             </div>
             
             <div className={classes.cardSection}>
