@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Travel-site/static/css/main.bf872b44.chunk.css",
-    "main.js": "/Travel-site/static/js/main.a63a7c2b.chunk.js",
-    "main.js.map": "/Travel-site/static/js/main.a63a7c2b.chunk.js.map",
+    "main.css": "/Travel-site/static/css/main.ebcb5ebd.chunk.css",
+    "main.js": "/Travel-site/static/js/main.106c78d2.chunk.js",
+    "main.js.map": "/Travel-site/static/js/main.106c78d2.chunk.js.map",
     "runtime-main.js": "/Travel-site/static/js/runtime-main.eaf0ae0e.js",
     "runtime-main.js.map": "/Travel-site/static/js/runtime-main.eaf0ae0e.js.map",
     "static/js/2.54adbbf1.chunk.js": "/Travel-site/static/js/2.54adbbf1.chunk.js",
     "static/js/2.54adbbf1.chunk.js.map": "/Travel-site/static/js/2.54adbbf1.chunk.js.map",
     "index.html": "/Travel-site/index.html",
-    "static/css/main.bf872b44.chunk.css.map": "/Travel-site/static/css/main.bf872b44.chunk.css.map",
+    "static/css/main.ebcb5ebd.chunk.css.map": "/Travel-site/static/css/main.ebcb5ebd.chunk.css.map",
     "static/js/2.54adbbf1.chunk.js.LICENSE.txt": "/Travel-site/static/js/2.54adbbf1.chunk.js.LICENSE.txt",
     "static/media/Logo.3aec1295.svg": "/Travel-site/static/media/Logo.3aec1295.svg",
     "static/media/apple.75667672.svg": "/Travel-site/static/media/apple.75667672.svg",
@@ -22,6 +22,7 @@
     "static/media/dst2.3afa0749.png": "/Travel-site/static/media/dst2.3afa0749.png",
     "static/media/dst3.1a3fc4bd.png": "/Travel-site/static/media/dst3.1a3fc4bd.png",
     "static/media/facebook.c87bc240.svg": "/Travel-site/static/media/facebook.c87bc240.svg",
+    "static/media/hamburger-menu.2e8b080c.svg": "/Travel-site/static/media/hamburger-menu.2e8b080c.svg",
     "static/media/hearticon.7c251194.svg": "/Travel-site/static/media/hearticon.7c251194.svg",
     "static/media/image.b13d9457.png": "/Travel-site/static/media/image.b13d9457.png",
     "static/media/insta.7a3b5420.svg": "/Travel-site/static/media/insta.7a3b5420.svg",
@@ -47,7 +48,7 @@
   "entrypoints": [
     "static/js/runtime-main.eaf0ae0e.js",
     "static/js/2.54adbbf1.chunk.js",
-    "static/css/main.bf872b44.chunk.css",
-    "static/js/main.a63a7c2b.chunk.js"
+    "static/css/main.ebcb5ebd.chunk.css",
+    "static/js/main.106c78d2.chunk.js"
   ]
 }
