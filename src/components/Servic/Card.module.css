@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Poppins:wght@500;600&family=Volkhov:wght@700&display=swap');
 
+.Fcard{
+    position: relative;
+}
+
 .card{
     margin: 2% 1%;
     padding: 0 3% 3%;
-    height: 181px;
+    height: 201px;
     width: 216px;
+    background: #fff;
 }
 
 .img{
@@ -22,3 +27,28 @@
     font-weight: 500;
     color: #5E6282;
 }
+
+.effect{
+    width: 80px;
+    height: 80px;
+    background: none;
+    border-radius: 30px 0px 10px;
+    position: absolute;
+    z-index: 10;
+    left: -30px;
+    bottom: -30px;
+    /* visibility: hidden; */
+}
+
+.Fcard > div:first-child:active,
+.Fcard > div:first-child:hover{
+    width: 256px;
+    box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.02), 0px 64.8148px 46.8519px rgba(0, 0, 0, 0.0151852), 0px 38.5185px 25.4815px rgba(0, 0, 0, 0.0121481), 0px 20px 13px rgba(0, 0, 0, 0.01), 0px 8.14815px 6.51852px rgba(0, 0, 0, 0.00785185), 0px 1.85185px 3.14815px rgba(0, 0, 0, 0.00481481);
+    border-radius: 36px;
+}
+
+/* .Fcard > div:last-child:active,
+.Fcard > div:last-child:hover{
+    background: #DF6951;
+    z-index: -10;
+} */

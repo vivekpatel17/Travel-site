@@ -1,7 +1,13 @@
 
 .footer{
-    margin: 10vh 5% 0;
+    margin: 9% 5% 0;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
+}
+
+.contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }

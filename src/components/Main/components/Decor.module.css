@@ -9,23 +9,29 @@
     top: -65px;
 }
 
-.travelImg{
+.travelImg > img:first-child{
+    position: absolute;
+    z-index: -5;
+    top: 120px;
+    right: 520px;
+}
+
+.travelImg > img:nth-child(2){
     width: 765px;
     height: 764px;
     position: absolute;
     z-index: -5;
     top: 105px;
     right: 93px;
-    /* visibility: ; */
-    /* opacity: 0.5; */
+    opacity: 0.5;
 }
 
-@media screen and (max-width: 900px) {
-    .travelImg{
-        visibility: hidden;
-        /* display: none; */
-        /* opacity: 0.5; */
-    }
+.travelImg > img:last-child{
+    position: absolute;
+    z-index: -6;
+    top: 220px;
+    right: 90px;
+    opacity: 0.5;
 }
 
 .decorLeft{

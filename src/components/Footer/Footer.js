@@ -9,8 +9,11 @@ function Footer() {
     return (
         <div className={classes.footer}>
             <CompanyDesc />
-            <NavCol />
-            <Outbound />
+            <div className={classes.contact}>
+                <NavCol />
+                <Outbound />
+            </div>
+            
         </div>
     );
 }

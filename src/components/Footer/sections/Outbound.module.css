@@ -3,7 +3,11 @@
 .outboundSec{
     margin: 20px 5px;
 }
-
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
 .icons > img{
     height: 45px;
     width: 45px;
