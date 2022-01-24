@@ -23,7 +23,12 @@
     z-index: -5;
     top: 105px;
     right: 93px;
-    opacity: 0.5;
+}
+
+@media screen and (max-width: 1250px) {
+    .travelImg > img:nth-child(2){
+        opacity: 0.5;
+    }
 }
 
 .travelImg > img:last-child{

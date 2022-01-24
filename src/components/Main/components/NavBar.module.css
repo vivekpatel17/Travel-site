@@ -23,11 +23,27 @@
     font-weight: 400;
     font-size: 17px;
 }
-/* @media screen and (max-width: 900px) {
+.menuitem > button{
+    width: 45px;
+    height: 40px;
+    margin: 0 23px;
+    border-radius: 4px;
+    background: none;
+    display: none;
+}
+.menuitem > button > img{
+    margin: 0 auto;
+    width: 30px;
+    height: 35px;
+}
+@media screen and (max-width: 1000px) {
     .menuitem > p{
         display: none;
     }
-} */
+    .menuitem > button{
+        display: inline;
+    }
+}
 
 .signup > button{
     width: 102px;
@@ -46,5 +62,7 @@
     font-family: 'Noto Sans', sans-serif;
     font-weight: 400;
     font-size: 17px;
-
+}
+.menudrop > p > img{
+    margin: 0 0 4px 2px;
 }
