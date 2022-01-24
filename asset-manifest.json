@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Travel-site/static/css/main.70f63939.chunk.css",
-    "main.js": "/Travel-site/static/js/main.559f5741.chunk.js",
-    "main.js.map": "/Travel-site/static/js/main.559f5741.chunk.js.map",
+    "main.css": "/Travel-site/static/css/main.bf872b44.chunk.css",
+    "main.js": "/Travel-site/static/js/main.a63a7c2b.chunk.js",
+    "main.js.map": "/Travel-site/static/js/main.a63a7c2b.chunk.js.map",
     "runtime-main.js": "/Travel-site/static/js/runtime-main.eaf0ae0e.js",
     "runtime-main.js.map": "/Travel-site/static/js/runtime-main.eaf0ae0e.js.map",
     "static/js/2.54adbbf1.chunk.js": "/Travel-site/static/js/2.54adbbf1.chunk.js",
     "static/js/2.54adbbf1.chunk.js.map": "/Travel-site/static/js/2.54adbbf1.chunk.js.map",
     "index.html": "/Travel-site/index.html",
-    "static/css/main.70f63939.chunk.css.map": "/Travel-site/static/css/main.70f63939.chunk.css.map",
+    "static/css/main.bf872b44.chunk.css.map": "/Travel-site/static/css/main.bf872b44.chunk.css.map",
     "static/js/2.54adbbf1.chunk.js.LICENSE.txt": "/Travel-site/static/js/2.54adbbf1.chunk.js.LICENSE.txt",
     "static/media/Logo.3aec1295.svg": "/Travel-site/static/media/Logo.3aec1295.svg",
     "static/media/apple.75667672.svg": "/Travel-site/static/media/apple.75667672.svg",
@@ -47,7 +47,7 @@
   "entrypoints": [
     "static/js/runtime-main.eaf0ae0e.js",
     "static/js/2.54adbbf1.chunk.js",
-    "static/css/main.70f63939.chunk.css",
-    "static/js/main.559f5741.chunk.js"
+    "static/css/main.bf872b44.chunk.css",
+    "static/js/main.a63a7c2b.chunk.js"
   ]
 }
