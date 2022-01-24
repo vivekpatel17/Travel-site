@@ -10,8 +10,7 @@ function Card(props) {
             <div>
                 <img src={props.data.imgURL} alt=""/>
             </div>
-            <div 
-            className={classes.data}>
+            <div className={classes.data}>
                 <div>
                     <h5>{props.data.location}</h5>
                     <h5>{props.data.cost}</h5>

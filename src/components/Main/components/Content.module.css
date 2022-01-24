@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&family=Volkhov:wght@700&display=swap');
+
+.content{
+    width: 630px;
+    height: 535px;
+    margin: 217px 0 0 148px;
+}
+
+
+.content > h5{
+    margin: 0;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: #DF6951;
+}
+
+.content > h1{
+    margin: 0;
+    font-family: Volkhov;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 84px;
+    letter-spacing: -0.04em;
+    color: #181E4B;
+}
+
+.content > p{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #5E6282;
+}
+
+.content > div{
+    margin: 23px 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.content > div > *{
+    margin: 0 37px 0 0;
+}
+
+
+.learnbtn{
+    width: 170px;
+    height: 60px;
+    background: #F1A501;
+    box-shadow: 0px 20px 35px rgba(241, 165, 1, 0.15);
+    border-radius: 10px;
+    border-width: 0;
+}
+.learnbtn > p{
+    margin: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+.playbtn{
+    width: 52px;
+    height: 52px;
+    background: #DF6951;
+    box-shadow: 0px 15px 30px rgba(223, 105, 81, 0.3);
+    border-radius: 50%;
+    border-width: 0;
+}
+
+.content > div > p {
+    margin-top: 13px;   
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    color: #686D77;
+
+}
