@@ -23,11 +23,25 @@
     font-weight: 400;
     font-size: 17px;
 }
-/* @media screen and (max-width: 900px) {
+.menuitem > button{
+    display: none;
+    margin: 0 23px;
+    width: 40px;
+    height: 40px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    border-radius: 4px;
+    background: none;
+}
+@media screen and (max-width: 1000px) {
     .menuitem > p{
         display: none;
     }
-} */
+    .menuitem > button{
+        display: inline;
+    }
+}
 
 .signup > button{
     width: 102px;
@@ -46,5 +60,4 @@
     font-family: 'Noto Sans', sans-serif;
     font-weight: 400;
     font-size: 17px;
-
 }

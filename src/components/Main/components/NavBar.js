@@ -20,6 +20,7 @@ function NavBar() {
             <div className={classes.menu}>
                 <div className={classes.menuitem}>
                     {nav.map((data) => <p>{data}</p>)}
+                    <button></button>
                 </div>
                 <div className={classes.signup}>
                     <button>Sign up</button>

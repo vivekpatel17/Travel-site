@@ -15,7 +15,6 @@
     top: 120px;
     right: 520px;
 }
-
 .travelImg > img:nth-child(2){
     width: 765px;
     height: 764px;
@@ -23,9 +22,7 @@
     z-index: -5;
     top: 105px;
     right: 93px;
-    opacity: 0.5;
 }
-
 .travelImg > img:last-child{
     position: absolute;
     z-index: -6;
@@ -39,4 +36,15 @@
     z-index: -10;
     width: 478.94px;
     height: 496.86px;
+}
+
+@media screen and (max-width: 1200px) {
+    .travelImg > img:nth-child(2){
+        opacity: 0.5;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .decorRight{
+        right: -90px;
+    }
 }
